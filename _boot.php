@@ -18,7 +18,7 @@
  * @version    Rewrite 3
  * @created    2013-10-19
  */
-namespace netaxis\test {
+namespace netaxis\burgenfinder {
 
     use netaxis\BootConfig;
     use netaxis\BootLoader;
